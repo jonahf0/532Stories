@@ -5,3 +5,8 @@ Every sunset brigns the promise of new dawn. It is almost impossible to watch a 
 The juice drips from the writer's beard drop by drop onto the disgusting motel carpet. He awaits for something, although he knows not what.
 
 We are not having the quiz today
+
+Dear Kyle, this class was surprisingly difficult for some people. I am not sure how we could make this section of the class easier
+or alleviate the challenge for some students. Git can be difficult to comprehend, so I hope you and TJ find a good solution to this
+for future classes. Also, authentication errors don't help make Git any easier :(
+-- <3 Jonah
